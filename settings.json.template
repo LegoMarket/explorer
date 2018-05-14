@@ -5,15 +5,15 @@
 */
 {
   // name your instance!
-  "title": "IQUIDUS",
+  "title": "Dygicoin Block Explorer",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "Dygicoin",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "DGC",
 
   // logo
   "logo": "/images/logo.png",
